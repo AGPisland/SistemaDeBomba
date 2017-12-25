@@ -1,0 +1,27 @@
+11-12-17, 15:51 - Los mensajes y llamadas en este chat ahora están protegidos con cifrado de extremo a extremo. Toca para más información.
+11-12-17, 15:51 - Alonso Gajardo: Hola Giovanni te habla Alonso el hijo mayor de Gerónimo
+11-12-17, 17:06 - Giovanni Sangued: Hola Alonso cómo estás? Ayer me acordé de vos, cómo vas con la propuesta del Arduino para el control del estanque de agua?
+11-12-17, 20:46 - Alonso Gajardo: Voy bien tengo un avance
+11-12-17, 20:47 - Alonso Gajardo: Pero necesito saber acerca de la bateria y del panel solar
+11-12-17, 20:47 - Alonso Gajardo: La ficha técnica
+11-12-17, 20:49 - Alonso Gajardo: Acondicionar el código a los números correspondientes
+12-12-17, 15:58 - Giovanni Sangued: <Archivo omitido>
+12-12-17, 15:59 - Giovanni Sangued: Ese es el sistema. Abajo hay un banco de 8 baterías las cuales se encuentran en 2 bloques de 4 en serie. Por lo tanto al inversor ingresan 48 v
+12-12-17, 16:00 - Giovanni Sangued: El inversor es de 5.000w. Recibe los 48 v de continua y los transforma en 220 v de alterna.
+12-12-17, 16:02 - Giovanni Sangued: El inversor recibe la energía de los paneles solares y carga las baterías. Internamente también funciona como regulador de carga de tal manera que corta el suministro en caso de sobre carga.
+12-12-17, 16:03 - Giovanni Sangued: El rollo de cable de la derecha es para alimentar el sistema con un generador a combustible de respaldo ya que podría ocurrir que varios días tocaran nublados.
+12-12-17, 16:04 - Alonso Gajardo: Ok dos preguntas:
+Cuanta corriente entrega la batería?
+Cuanta corriente y voltaje Max entregan los paneles?
+12-12-17, 16:04 - Alonso Gajardo: Potencia tambien me sirve
+12-12-17, 16:05 - Giovanni Sangued: Según lo que he medido a máximo sol los paneles entregan 95 v y 17 Amp
+12-12-17, 16:05 - Giovanni Sangued: Las baterías son de 12 v y 180 Amp cada una
+12-12-17, 16:06 - Giovanni Sangued: Te queda claro o tienes alguna otra duda?
+12-12-17, 16:07 - Alonso Gajardo: 180 amp cada batería??!!
+12-12-17, 16:07 - Giovanni Sangued: Si, son enormes.
+12-12-17, 16:09 - Giovanni Sangued: Disculpa, son de 170 Amp
+12-12-17, 16:11 - Alonso Gajardo: Bueno, necesitaba esa información para el sensor de corriente que hay de varios de niveles de Amp , y terminar el codigo con esos valores. te voy a hacer un sistema y tengo bien entendido como debe ser.
+ No tiene q funcionar de noche .
+Y solamente se encenderá cuando el nivel está bajo por tanto el flotador interruptor encenderia el arduino y este comenzara a comprobar si se dan las condiciones
+12-12-17, 16:14 - Alonso Gajardo: Te voy a estar contando
+12-12-17, 16:18 - Giovanni Sangued: Excelente 👍🏻
